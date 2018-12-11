@@ -1,6 +1,6 @@
 {
 "profiles":[
-{"id":"1","name":"ebin","age":"20"},
-{"id":"2","name":"joseph","age":"25"}
+{"id":1,"name":"ebin","age":"20"},
+{"id":2,"name":"joseph","age":"25"}
 ]
 }
